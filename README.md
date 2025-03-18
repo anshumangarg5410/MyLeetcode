@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0054-spiral-matrix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2478-longest-nice-subarray) |
 ## Hash Table
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2478-longest-nice-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
