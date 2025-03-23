@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
