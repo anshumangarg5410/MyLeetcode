@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0088-merge-sorted-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2478-longest-nice-subarray) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,8 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0035-search-insert-position) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0088-merge-sorted-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Greedy
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
