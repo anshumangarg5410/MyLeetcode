@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0326-power-of-three) |
 | [2083-three-divisors](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2083-three-divisors) |
 ## Recursion
