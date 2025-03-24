@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0326-power-of-three) |
+| [2083-three-divisors](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2083-three-divisors) |
 ## Recursion
 |  |
 | ------- |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
