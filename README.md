@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0066-plus-one) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0792-binary-search) |
