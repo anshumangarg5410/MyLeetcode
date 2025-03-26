@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0035-search-insert-position) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0278-first-bad-version) |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
