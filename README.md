@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0054-spiral-matrix) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
