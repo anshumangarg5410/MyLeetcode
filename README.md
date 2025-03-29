@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0792-binary-search) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0792-binary-search) |
