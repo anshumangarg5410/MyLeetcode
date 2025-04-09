@@ -18,7 +18,7 @@ public:
 
         //better way
 
-        //3 pointers approach 
+        //3 pointers approach / dutch national flag algorithm !
 
         int start = 0, mid = 0, end = nums.size() - 1;
         while (mid <= end){
