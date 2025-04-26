@@ -10,7 +10,6 @@ public:
                 int y = myst.top(); myst.pop();
                 int x = myst.top(); myst.pop();
                 if (tokens[i] == "+") myst.push(x + y);
-                else if (tokens[i] == "+") myst.push(x + y);
                 else if (tokens[i] == "-") myst.push(x - y);
                 else if (tokens[i] == "/") myst.push(x / y);
                 else if (tokens[i] == "*") myst.push(x * y);
