@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0792-binary-search) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0792-binary-search) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
 | ------- |
