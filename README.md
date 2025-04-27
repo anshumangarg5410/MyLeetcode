@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0792-binary-search) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2478-longest-nice-subarray) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0326-power-of-three) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2083-three-divisors) |
 ## Recursion
 |  |
