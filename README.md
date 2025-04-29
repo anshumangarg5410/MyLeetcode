@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0242-valid-anagram) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0242-valid-anagram) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
