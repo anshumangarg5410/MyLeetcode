@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0242-valid-anagram) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0414-third-maximum-number) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
