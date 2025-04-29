@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0326-power-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2083-three-divisors) |
@@ -175,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
