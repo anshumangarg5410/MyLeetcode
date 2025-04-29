@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0263-ugly-number) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0344-reverse-string) |
