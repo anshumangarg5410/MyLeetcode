@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2478-longest-nice-subarray) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3429-special-array-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
