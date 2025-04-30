@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0792-binary-search) |
 | [1044-find-common-characters](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1044-find-common-characters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0682-baseball-game) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0682-baseball-game) |
 ## Brainteaser
 |  |
 | ------- |
