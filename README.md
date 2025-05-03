@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0792-binary-search) |
 | [1044-find-common-characters](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1044-find-common-characters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1677-matrix-diagonal-sum](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1677-matrix-diagonal-sum](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
