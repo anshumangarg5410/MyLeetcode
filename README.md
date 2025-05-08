@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2478-longest-nice-subarray) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3221-find-the-peaks](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3221-find-the-peaks) |
 | [3429-special-array-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3429-special-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2083-three-divisors) |
+| [3221-find-the-peaks](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
 | ------- |
