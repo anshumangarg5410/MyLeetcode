@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0242-valid-anagram) |
