@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2083-three-divisors) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0412-fizz-buzz) |
 | [1044-find-common-characters](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1044-find-common-characters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0392-is-subsequence) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
 | ------- |
