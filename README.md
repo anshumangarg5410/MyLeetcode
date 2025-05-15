@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2478-longest-nice-subarray) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3221-find-the-peaks](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3221-find-the-peaks) |
 | [3429-special-array-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3429-special-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0412-fizz-buzz) |
 | [1044-find-common-characters](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1044-find-common-characters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0392-is-subsequence) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
