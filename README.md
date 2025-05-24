@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2478-longest-nice-subarray) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3221-find-the-peaks) |
 | [3429-special-array-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3429-special-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1044-find-common-characters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/anshumangarg5410/MyLeetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
