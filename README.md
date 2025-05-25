@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0326-power-of-three) |
+| [0396-rotate-function](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/anshumangarg5410/MyLeetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/anshumangarg5410/MyLeetcode/tree/master/0396-rotate-function) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshumangarg5410/MyLeetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
