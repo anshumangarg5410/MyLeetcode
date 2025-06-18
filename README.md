@@ -8,7 +8,7 @@ This repo helps me track my DSA journey and maintain a structured archive of my 
 ## 🙋‍♂️ About Me
 
 **Anshuman Garg**  
-🎓 B.Tech CSE 
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anshumangarg5410)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/anshumangarg5410)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshumangarg5410)
