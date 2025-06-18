@@ -8,8 +8,9 @@ This repo helps me track my DSA journey and maintain a structured archive of my 
 ## 🙋‍♂️ About Me
 
 **Anshuman Garg**  
-B.Tech CSE @ Chitkara University  
-🔗 [GitHub](https://github.com/anshumangarg5410) • [LeetCode](https://leetcode.com/anshumangarg5410)
+[![Chitkara University](https://img.shields.io/badge/Chitkara%20University-CSE-red?style=flat&logo=bookstack&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anshumangarg5410)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/anshumangarg5410)
 
 ---
 
