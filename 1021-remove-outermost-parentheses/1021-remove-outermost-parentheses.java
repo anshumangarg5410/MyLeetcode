@@ -1,6 +1,5 @@
 class Solution {
     public String removeOuterParentheses(String s) {
-        int targetStart = 0, targetEnd = 0;
         StringBuilder ans = new StringBuilder();
         Stack<Character> st = new Stack<>();
 
