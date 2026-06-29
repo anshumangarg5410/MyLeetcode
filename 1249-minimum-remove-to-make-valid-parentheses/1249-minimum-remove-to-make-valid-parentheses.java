@@ -44,9 +44,9 @@ class Solution {
             }
         }
 
-        for(boolean i : crct) {
-            System.out.print(i + ", ");
-        }
+        // for(boolean i : crct) {
+        //     System.out.print(i + ", ");
+        // }
 
         return ans.toString();
     }
