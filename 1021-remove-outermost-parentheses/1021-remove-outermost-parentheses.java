@@ -7,7 +7,6 @@ class Solution {
             char ch = s.charAt(i);
 
             if (ch == '(' && st.isEmpty()) {
-                System.out.println("YES AT I: " + i);
                 st.push(ch);
             }
             else if (ch == '(' && !st.isEmpty()) {
