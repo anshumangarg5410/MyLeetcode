@@ -12,13 +12,11 @@ class Solution {
 
         List<Map.Entry<Character, Integer>>  lst = new ArrayList<>(map.entrySet());
 
-
-
         Collections.sort(lst, (a, b) -> b.getValue() - a.getValue());
 
-        for(Map.Entry<Character, Integer> e : lst) {
-            System.out.println(e);
-        }
+        // for(Map.Entry<Character, Integer> e : lst) {
+        //     System.out.println(e);
+        // }
 
         StringBuilder ans = new StringBuilder();
 
