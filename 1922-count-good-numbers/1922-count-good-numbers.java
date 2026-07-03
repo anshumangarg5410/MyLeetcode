@@ -27,8 +27,8 @@ class Solution {
         long primeM = power(4, primeNo); 
         long evenN = power(5, evenNo);
 
-        System.out.println(primeM);
-        System.out.println(evenN);
+        // System.out.println(primeM);
+        // System.out.println(evenN);
 
         int ans = (int)((primeM * evenN) % 1000000007);
 
