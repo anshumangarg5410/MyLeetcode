@@ -21,20 +21,9 @@ class Solution {
 
         int i = 0;
 
-        while (!before.isEmpty()) {
-            nums[i] = before.remove(0);
-            i++;
-        }
-
-        while (!equal.isEmpty()) {
-            nums[i] = equal.remove(0);
-            i++;
-        }
-
-        while (!after.isEmpty()) {
-            nums[i] = after.remove(0);
-            i++;
-        }
+        for (int x : before) nums[i++] = x;
+        for (int x : equal) nums[i++] = x;
+        for (int x : after) nums[i++] = x;
 
         return nums;
 
