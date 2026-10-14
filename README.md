@@ -18,9 +18,9 @@ This repo helps me track my DSA journey and maintain a structured archive of my 
 
 ## ⚙️ How It Works
 
-- ✅ Solved problems on [LeetCode](https://leetcode.com)
+- ✅ Solved problems on [LeetCode](https://leetcode.com/u/anshumangarg5410)
 - 🔁 Synced via **LeetHub v2**
-- 🧠 Mostly in **C++**
+- 🧠 Mostly in **JAVA**
 - 📂 Auto-generated folders per question
 - 📋 Auto-tracked time and space stats
 
